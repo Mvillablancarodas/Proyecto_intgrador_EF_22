@@ -1,3 +1,11 @@
+/* enlaces de fuentes */
+@import url('https://fonts.googleapis.com/css2?family=Syne+Mono&display=swap');
+
+body{
+    padding: 0;
+    margin: 0;
+}
+
 /* acordeon */
 
 .accordion{
@@ -8,9 +16,25 @@
 
 }
 
+.img_fondo{
+    background-color:aqua;
+    /* background-image: url(/imagenes/Planeta_helado.jpg); */
+    /* width: 40px; */
+    /* height: 100px; */
+}
+
+
+/* titulo de  proyecto */
+.titulo_{
+    font-size: 100px;
+    text-align: center;
+    font-family: 'Syne Mono', monospace;
+}
+
 /* imagenes del carrusel */
 
 .carousel-item{
     height: 500px;
     width: 100px;
+    /* background-color: aqua;    */
 }
