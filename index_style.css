@@ -1,0 +1,16 @@
+/* acordeon */
+
+.accordion{
+
+}
+
+#carouselExampleFade{
+
+}
+
+/* imagenes del carrusel */
+
+.carousel-item{
+    height: 500px;
+    width: 100px;
+}
